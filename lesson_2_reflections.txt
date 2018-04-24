@@ -1,18 +1,13 @@
-Viewing a diff working has showed me how simple it is 
-to look for differences between different files.
+What happens when you initialize a repository? Why do you need to do it?
+There aren't any commits and we can see a .git file if we do ls -a.
+We can see the files in the repository as untracked files.
 
-If I can reach easily the different versions of a file, I will be 
-faster when I need to look for some mistake I have done.
+Now that you have your workspace set up, what do you want to try using Git for?
+Use it to work in Heypey app.
 
-Manual saving vs Automatic saving: manual gives us more freedom because we can choose when to commit,
-but in front of that, we must remember to commit every time we finish a little work, and that is not done sometimes.
+Hola aviam si fa el commit
 
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Google docs is focused to documents which don't need other files coexisting. The ones in Git they do.
 
-How can you use the commands git log and git diff to view the history of files?
-git log shows the different commits made in the different files, with their IDs
-git diff lets us know the differences between 2 files, so that we can see the changes done in that commit
 
-How might using version control make you more confident to make changes that could break something?
-Always I break anything I can go back to the previous version and check what I did wrong
+
+
